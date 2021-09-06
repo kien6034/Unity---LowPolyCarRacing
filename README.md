@@ -1,5 +1,8 @@
 # Unity---LowPolyCarRacing
 
+**GAME INTRODUCTION**
+https://www.youtube.com/watch?v=idlwGTbvXcA
+
 Dự án cá nhân Unity
 
 - Thiết kế model bằng phần mềm Blender
